@@ -1,0 +1,15 @@
+services/Service.java
+ services.Service
+ services.Service$1
+ services.Service$2
+com/example/shen/Client.java
+ com.example.shen.Client
+com/example/shen/AuthActivity.java
+ com.example.shen.AuthActivity
+ com.example.shen.AuthActivity$1
+ com.example.shen.AuthActivity$2
+com/example/shen/BuildConfig.java
+ com.example.shen.BuildConfig
+services/mapLocation.java
+ services.mapLocation
+ services.mapLocation$1
